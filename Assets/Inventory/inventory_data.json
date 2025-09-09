@@ -1,0 +1,1105 @@
+{
+  "InventorySlotData": [
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 104,
+          "star": 4,
+          "level": 5
+        },
+        "NumberOfItems": 3
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 401,
+          "star": 1,
+          "level": 5
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 401,
+          "star": 2,
+          "level": 5
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 201,
+          "star": 3,
+          "level": 8
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 201,
+          "star": 2,
+          "level": 7
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 105,
+          "star": 0,
+          "level": 3
+        },
+        "NumberOfItems": 3
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 101,
+          "star": 2,
+          "level": 9
+        },
+        "NumberOfItems": 4
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 401,
+          "star": 3,
+          "level": 7
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 301,
+          "star": 1,
+          "level": 0
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 4,
+          "level": 2
+        },
+        "NumberOfItems": 7
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 4,
+          "level": 6
+        },
+        "NumberOfItems": 4
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 0,
+          "level": 6
+        },
+        "NumberOfItems": 2
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 301,
+          "star": 3,
+          "level": 6
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 301,
+          "star": 1,
+          "level": 8
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 201,
+          "star": 2,
+          "level": 1
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 101,
+          "star": 4,
+          "level": 5
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 301,
+          "star": 4,
+          "level": 6
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 301,
+          "star": 1,
+          "level": 3
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 4,
+          "level": 7
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 301,
+          "star": 3,
+          "level": 1
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 4,
+          "level": 7
+        },
+        "NumberOfItems": 2
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 104,
+          "star": 2,
+          "level": 8
+        },
+        "NumberOfItems": 5
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 101,
+          "star": 4,
+          "level": 0
+        },
+        "NumberOfItems": 3
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 401,
+          "star": 4,
+          "level": 8
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 101,
+          "star": 4,
+          "level": 0
+        },
+        "NumberOfItems": 5
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 201,
+          "star": 4,
+          "level": 5
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 105,
+          "star": 0,
+          "level": 3
+        },
+        "NumberOfItems": 2
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 401,
+          "star": 3,
+          "level": 9
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 101,
+          "star": 0,
+          "level": 2
+        },
+        "NumberOfItems": 2
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 104,
+          "star": 1,
+          "level": 4
+        },
+        "NumberOfItems": 7
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 201,
+          "star": 0,
+          "level": 4
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 2,
+          "level": 8
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 105,
+          "star": 0,
+          "level": 0
+        },
+        "NumberOfItems": 7
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 201,
+          "star": 4,
+          "level": 8
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 105,
+          "star": 3,
+          "level": 8
+        },
+        "NumberOfItems": 4
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 301,
+          "star": 0,
+          "level": 7
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 105,
+          "star": 3,
+          "level": 3
+        },
+        "NumberOfItems": 5
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 401,
+          "star": 3,
+          "level": 2
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 103,
+          "star": 0,
+          "level": 6
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 401,
+          "star": 0,
+          "level": 4
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 101,
+          "star": 4,
+          "level": 3
+        },
+        "NumberOfItems": 7
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 103,
+          "star": 1,
+          "level": 6
+        },
+        "NumberOfItems": 2
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 401,
+          "star": 0,
+          "level": 3
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 103,
+          "star": 3,
+          "level": 1
+        },
+        "NumberOfItems": 3
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 105,
+          "star": 1,
+          "level": 9
+        },
+        "NumberOfItems": 3
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 103,
+          "star": 0,
+          "level": 6
+        },
+        "NumberOfItems": 4
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 105,
+          "star": 1,
+          "level": 0
+        },
+        "NumberOfItems": 7
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 401,
+          "star": 2,
+          "level": 1
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 2,
+          "level": 9
+        },
+        "NumberOfItems": 4
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 104,
+          "star": 1,
+          "level": 6
+        },
+        "NumberOfItems": 7
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 104,
+          "star": 3,
+          "level": 9
+        },
+        "NumberOfItems": 2
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 401,
+          "star": 0,
+          "level": 4
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 301,
+          "star": 1,
+          "level": 3
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 101,
+          "star": 3,
+          "level": 6
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 105,
+          "star": 4,
+          "level": 9
+        },
+        "NumberOfItems": 6
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 103,
+          "star": 0,
+          "level": 3
+        },
+        "NumberOfItems": 4
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 4,
+          "level": 5
+        },
+        "NumberOfItems": 5
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 301,
+          "star": 0,
+          "level": 4
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 2,
+          "level": 5
+        },
+        "NumberOfItems": 5
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 0,
+          "level": 0
+        },
+        "NumberOfItems": 3
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 103,
+          "star": 3,
+          "level": 1
+        },
+        "NumberOfItems": 7
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 105,
+          "star": 1,
+          "level": 0
+        },
+        "NumberOfItems": 4
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 103,
+          "star": 1,
+          "level": 0
+        },
+        "NumberOfItems": 3
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 104,
+          "star": 1,
+          "level": 5
+        },
+        "NumberOfItems": 3
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 103,
+          "star": 4,
+          "level": 1
+        },
+        "NumberOfItems": 6
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 2,
+          "level": 8
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 4,
+          "level": 0
+        },
+        "NumberOfItems": 3
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 104,
+          "star": 4,
+          "level": 2
+        },
+        "NumberOfItems": 5
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 301,
+          "star": 2,
+          "level": 5
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 2,
+          "level": 0
+        },
+        "NumberOfItems": 4
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 301,
+          "star": 0,
+          "level": 5
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 103,
+          "star": 1,
+          "level": 6
+        },
+        "NumberOfItems": 5
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 103,
+          "star": 3,
+          "level": 5
+        },
+        "NumberOfItems": 2
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 301,
+          "star": 4,
+          "level": 8
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 101,
+          "star": 3,
+          "level": 6
+        },
+        "NumberOfItems": 3
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 1,
+          "level": 8
+        },
+        "NumberOfItems": 7
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 401,
+          "star": 0,
+          "level": 4
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 201,
+          "star": 1,
+          "level": 0
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 105,
+          "star": 0,
+          "level": 3
+        },
+        "NumberOfItems": 6
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 201,
+          "star": 4,
+          "level": 8
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 201,
+          "star": 2,
+          "level": 7
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 105,
+          "star": 4,
+          "level": 6
+        },
+        "NumberOfItems": 2
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 201,
+          "star": 0,
+          "level": 0
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 401,
+          "star": 0,
+          "level": 9
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 0,
+          "level": 8
+        },
+        "NumberOfItems": 5
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 3,
+          "level": 3
+        },
+        "NumberOfItems": 7
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 105,
+          "star": 1,
+          "level": 6
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 104,
+          "star": 4,
+          "level": 0
+        },
+        "NumberOfItems": 7
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 104,
+          "star": 4,
+          "level": 1
+        },
+        "NumberOfItems": 4
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 1,
+          "level": 1
+        },
+        "NumberOfItems": 6
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 101,
+          "star": 1,
+          "level": 0
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 201,
+          "star": 2,
+          "level": 7
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 103,
+          "star": 1,
+          "level": 7
+        },
+        "NumberOfItems": 2
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 105,
+          "star": 2,
+          "level": 0
+        },
+        "NumberOfItems": 7
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 104,
+          "star": 0,
+          "level": 7
+        },
+        "NumberOfItems": 7
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 201,
+          "star": 1,
+          "level": 5
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 301,
+          "star": 2,
+          "level": 6
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 102,
+          "star": 0,
+          "level": 6
+        },
+        "NumberOfItems": 5
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 103,
+          "star": 3,
+          "level": 2
+        },
+        "NumberOfItems": 1
+      }
+    },
+    {
+      "AllowedItemIds": null,
+      "ItemStack": {
+        "Item": {
+          "id": 101,
+          "star": 2,
+          "level": 1
+        },
+        "NumberOfItems": 6
+      }
+    }
+  ],
+  "SlotNumber": 100
+}

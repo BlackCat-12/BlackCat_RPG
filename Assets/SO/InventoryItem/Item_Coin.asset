@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d920523b497e5c84f8020179da761a95, type: 3}
+  m_Name: Item_Coin
+  m_EditorClassIdentifier: 
+  id: 101
+  addressKey: Item_101
+  itemName: Greed
+  description: 
+  type: 2
+  starRank: 0
+  icon: {fileID: 21300000, guid: 111f96d011e41e14781eb984e8c61986, type: 3}
+  prefab: {fileID: 0}
+  stackable: 1
+  maxStackSize: 999
