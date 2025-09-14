@@ -1,4 +1,4 @@
-背包展示：
+无限滚动背包展示：
 <img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/0a689d6a-90ac-4771-aaec-13c26881d732" />
 
 MVC背包UI更新逻辑:
